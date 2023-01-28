@@ -25,6 +25,8 @@ End the program.
 
 ## PROGRAM:
 ```
+developed by:M.sakthivel
+register no: 22007765
 with open("sample1.txt", "r") as firstfile:
     with open("sample2.txt", "a") as secondfile:
         for line in firstfile:
